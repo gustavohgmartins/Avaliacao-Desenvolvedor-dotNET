@@ -1,0 +1,22 @@
+C:\Users\gurak\Documents\Coding\Avaliacao desenvolvedor .net c#\bin\Debug\net6.0\Avaliacao desenvolvedor .net c#.exe
+C:\Users\gurak\Documents\Coding\Avaliacao desenvolvedor .net c#\bin\Debug\net6.0\Avaliacao desenvolvedor .net c#.deps.json
+C:\Users\gurak\Documents\Coding\Avaliacao desenvolvedor .net c#\bin\Debug\net6.0\Avaliacao desenvolvedor .net c#.runtimeconfig.json
+C:\Users\gurak\Documents\Coding\Avaliacao desenvolvedor .net c#\bin\Debug\net6.0\Avaliacao desenvolvedor .net c#.dll
+C:\Users\gurak\Documents\Coding\Avaliacao desenvolvedor .net c#\bin\Debug\net6.0\ref\Avaliacao desenvolvedor .net c#.dll
+C:\Users\gurak\Documents\Coding\Avaliacao desenvolvedor .net c#\bin\Debug\net6.0\Avaliacao desenvolvedor .net c#.pdb
+C:\Users\gurak\Documents\Coding\Avaliacao desenvolvedor .net c#\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\gurak\Documents\Coding\Avaliacao desenvolvedor .net c#\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\gurak\Documents\Coding\Avaliacao desenvolvedor .net c#\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\gurak\Documents\Coding\Avaliacao desenvolvedor .net c#\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\gurak\Documents\Coding\Avaliacao desenvolvedor .net c#\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gurak\Documents\Coding\Avaliacao desenvolvedor .net c#\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\gurak\Documents\Coding\Avaliacao desenvolvedor .net c#\obj\Debug\net6.0\Avaliacao desenvolvedor .net c#.csproj.AssemblyReference.cache
+C:\Users\gurak\Documents\Coding\Avaliacao desenvolvedor .net c#\obj\Debug\net6.0\Avaliacao desenvolvedor .net c#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gurak\Documents\Coding\Avaliacao desenvolvedor .net c#\obj\Debug\net6.0\Avaliacao desenvolvedor .net c#.AssemblyInfoInputs.cache
+C:\Users\gurak\Documents\Coding\Avaliacao desenvolvedor .net c#\obj\Debug\net6.0\Avaliacao desenvolvedor .net c#.AssemblyInfo.cs
+C:\Users\gurak\Documents\Coding\Avaliacao desenvolvedor .net c#\obj\Debug\net6.0\Avaliacao desenvolvedor .net c#.csproj.CoreCompileInputs.cache
+C:\Users\gurak\Documents\Coding\Avaliacao desenvolvedor .net c#\obj\Debug\net6.0\Avaliacao desenvolvedor .net c#.csproj.CopyComplete
+C:\Users\gurak\Documents\Coding\Avaliacao desenvolvedor .net c#\obj\Debug\net6.0\Avaliacao desenvolvedor .net c#.dll
+C:\Users\gurak\Documents\Coding\Avaliacao desenvolvedor .net c#\obj\Debug\net6.0\ref\Avaliacao desenvolvedor .net c#.dll
+C:\Users\gurak\Documents\Coding\Avaliacao desenvolvedor .net c#\obj\Debug\net6.0\Avaliacao desenvolvedor .net c#.pdb
+C:\Users\gurak\Documents\Coding\Avaliacao desenvolvedor .net c#\obj\Debug\net6.0\Avaliacao desenvolvedor .net c#.genruntimeconfig.cache
